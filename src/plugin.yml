@@ -1,0 +1,5 @@
+name: OniziacBiomesGenerator
+version: 1.0
+author: Weswaas
+main: com.weswaas.oniziacworldgenerator.Main
+load: STARTUP
